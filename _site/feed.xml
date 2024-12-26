@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <generator uri="http://jekyllrb.com" version="4.3.3">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="4.3.4">Jekyll</generator>
   
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2024-03-07T13:31:53-05:00</updated>
-  <id>http://localhost:4000//</id>
+  <updated>2024-12-26T15:06:15-05:00</updated>
+  <id>http://localhost:4000/</id>
 
   
     <title type="html">Majestic Twelve’s Blog</title>
@@ -22,6 +22,67 @@
   
     <entry>
       
+      <title type="html">New Years and Future Updates</title>
+      
+      
+      <link href="http://localhost:4000/2024/12/26/new-year-updates/" rel="alternate" type="text/html" title="New Years and Future Updates" />
+      
+      <published>2024-12-26T14:14:00-05:00</published>
+      <updated>2024-12-26T14:14:00-05:00</updated>
+      <id>http://localhost:4000/2024/12/26/new-year-updates</id>
+      <content type="html" xml:base="http://localhost:4000/2024/12/26/new-year-updates/">&lt;h3 id=&quot;it-has-been-a-while&quot;&gt;It has been a while…&lt;/h3&gt;
+
+&lt;p&gt;I have made this blog for me to write about my thoughts, but I havent commited anything because of my disipline.&lt;/p&gt;
+
+&lt;p&gt;So I am going to use this to write about about my thoughts on productivity, on how I write and trying to get work done using logseq, obsidian and other types of programs so I can focus on my studies.&lt;/p&gt;
+
+&lt;p&gt;So, I will be trying to commit at least one good blog post a week so I can think about the future.&lt;/p&gt;
+
+&lt;p&gt;What I want from my future is just wanting some happiness so I can focus on reading my books, and taking care of myself through self improvement.
+For example, reading every night, keeping my phones (Yes I have many phones) out of the bedroom, and just trying to keep it together.&lt;/p&gt;
+
+&lt;p&gt;The courses that I would like to take are some cyber security exams so I can get certified so I can find some stability in a good work environment, whatever that means. but here I am…&lt;/p&gt;
+
+&lt;p&gt;Anyway, I will try to keep in progress in here so I can show what I have to offer.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Majestic Twelve</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="new-years" />
+      
+        <category term="updates" />
+      
+        <category term="obsidian" />
+      
+        <category term="logseq" />
+      
+
+      
+
+      
+        <summary type="html">It has been a while…</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Title</title>
       
       
@@ -30,12 +91,9 @@
       <published>2024-03-06T22:43:00-05:00</published>
       <updated>2024-03-06T22:43:00-05:00</updated>
       <id>http://localhost:4000/2024/03/06/new-file</id>
-      <content type="html" xml:base="http://localhost:4000/2024/03/06/new-file/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/2024/03/06/new-file/">&lt;p&gt;Yes, This is a test post. thanks for reading…&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content>
+&lt;p&gt;Just another thing, &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github pages&lt;/a&gt; site is outdated and needs work…&lt;/p&gt;</content>
 
       
       
@@ -60,47 +118,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       
 
       
-        <summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">My First post</title>
-      
-      
-      <link href="http://localhost:4000/2024/03/06/introduction-post/" rel="alternate" type="text/html" title="My First post" />
-      
-      <published>2024-03-06T00:00:00-05:00</published>
-      <updated>2024-03-06T00:00:00-05:00</updated>
-      <id>http://localhost:4000/2024/03/06/introduction-post</id>
-      <content type="html" xml:base="http://localhost:4000/2024/03/06/introduction-post/">&lt;p&gt;aslfkhasdkghakshfvkxjcvjkhgfdlsjghlasdjugf&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Majestic Twelve</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">aslfkhasdkghakshfvkxjcvjkhgfdlsjghlasdjugf</summary>
+        <summary type="html">Yes, This is a test post. thanks for reading…</summary>
       
 
       

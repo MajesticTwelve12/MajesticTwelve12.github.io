@@ -13,8 +13,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 16px/1.5 Bitter, "Apple SD Gothic Neo", AppleGothic, NanumBarunGothic, "Malgun Gothic", Dotum, sans-serif;
-  color: #d3d3d3;
-  background-color: #1f1f1f;
+  color: #111;
+  background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -93,10 +93,10 @@ a {
   text-decoration: none;
 }
 a:visited {
-  color: #5c1d8f;
+  color: rgb(28.5381165919, 80.2152466368, 143.4618834081);
 }
 a:hover {
-  color: #d8d8d8;
+  color: #111;
   text-decoration: underline;
 }
 
@@ -104,8 +104,8 @@ a:hover {
  * Blockquotes
  */
 blockquote {
-  color: #d1d1d1;
-  border-left: 4px solid #e8e8e8;
+  color: #757575;
+  border-left: 4px solid rgb(231.75, 231.75, 231.75);
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -125,7 +125,7 @@ hr {
   height: 4px;
   margin: 15px 0;
   border: 0;
-  background-color: #000000;
+  background-color: rgb(231.75, 231.75, 231.75);
 }
 
 /**
@@ -135,7 +135,7 @@ pre,
 code {
   font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
   font-size: 13px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid rgb(231.75, 231.75, 231.75);
   border-radius: 0;
   background-color: #f8f8f8;
 }
@@ -201,7 +201,7 @@ pre > code {
   float: left;
 }
 .site-title, .site-title:visited {
-  color: #ffffff;
+  color: #424242;
 }
 
 .site-nav {
@@ -209,7 +209,7 @@ pre > code {
   line-height: 56px;
 }
 .site-nav .page-link {
-  color: #ffffff;
+  color: #111;
   line-height: 1.5;
 }
 .site-nav .page-link:not(:last-child) {
@@ -231,7 +231,7 @@ pre > code {
 .site-footer {
   padding: 30px 0;
   font-size: 15px;
-  color: #e4e4e4;
+  color: #757575;
   text-align: center;
 }
 
@@ -257,7 +257,7 @@ pre > code {
   margin-bottom: 60px;
 }
 .post-list > li:not(:first-child) {
-  border-top: 4px solid #e4e4e4;
+  border-top: 4px solid rgb(231.75, 231.75, 231.75);
   padding-top: 60px;
 }
 
@@ -278,7 +278,7 @@ pre > code {
 }
 
 .post-link, .post-link:visited {
-  color: #ffffff;
+  color: #111;
 }
 .post-link:hover {
   color: #2568ba;
@@ -289,8 +289,8 @@ pre > code {
   text-decoration: none;
 }
 .post-continue a, .post-continue a:visited {
-  color: #a0a0a0;
-  background-color: #070707;
+  color: #424242;
+  background-color: rgb(231.75, 231.75, 231.75);
 }
 .post-continue a:hover {
   color: white;
@@ -356,8 +356,8 @@ pre > code {
  */
 .pagination {
   padding: 15px 0;
-  border-top: 1px solid #e8e8e8;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 1px solid rgb(231.75, 231.75, 231.75);
+  border-bottom: 1px solid rgb(231.75, 231.75, 231.75);
   text-align: center;
 }
 .pagination a, .pagination a:visited {

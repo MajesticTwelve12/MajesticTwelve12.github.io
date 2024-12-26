@@ -22,4 +22,3 @@ For example, reading every night, keeping my phones (Yes I have many phones) out
 The courses that I would like to take are some cyber security exams so I can get certified so I can find some stability in a good work environment, whatever that means. but here I am...
 
 Anyway, I will try to keep in progress in here so I can show what I have to offer.
-Hopefully.

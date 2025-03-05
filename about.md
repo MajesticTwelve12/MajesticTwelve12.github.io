@@ -1,12 +1,15 @@
 ---
 layout: page
 author: Majestic Twelve
-date:   2024-03-06 23:22 -0500
+date:   2025-03-05 1042 -0500
 ---
 
-## Welcome to my about page
+## Welcome To My About Page
 
-Yes it is still in a work in progress, I do not mind this kind of a setup.
+
+- Thank you for supporting my work like writing, and doing small programming on the side!
+The writing that I do really inspires me to explore the world and what people are thinking. For example writing about journaling, digital minimalism (Thank you Cal Newport for your excellent book with the same name!), and many other topics that I find interesting. Including the realm of technology and how we interface it in our daily lives.
+
 
 
 [![Donate using

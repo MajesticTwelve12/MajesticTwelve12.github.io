@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title:  "New Years and Future Updates"
 date:   2024-12-26 14:14 -0500

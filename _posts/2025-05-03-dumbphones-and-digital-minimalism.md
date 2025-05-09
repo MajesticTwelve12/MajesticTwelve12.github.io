@@ -7,7 +7,7 @@ author: Majestic Twelve
 ---
 
 
-# Introduction to dumbphones and Digital Minimalism.
+### Introduction to dumbphones and Digital Minimalism.
 
 
 Dumbphones are a new but revivalisted phenomenon in our society in the last couple of years because of the excessive use of technology like from the smartphone. The lack of human connection with others has shown its ugly head and a lot of people are looking for ways to get out of this vicious cycle. This can affect people on many different levels. How one makes these changes to their life starts off with a realization that something is seriously wrong, and they just can't put a finger on it because of the intense emotions that they are feeling because of the reality they are in. Examples of strong emotions like being distressed, anxious, and isolation. There are a lot of people saying that dumbphones can help us with our digital habits meanwhile making a lifestyle change can help us even better if we just did not replace the technology that we already use.

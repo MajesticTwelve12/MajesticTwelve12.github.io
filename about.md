@@ -11,6 +11,8 @@ date:   2025-03-05 1042 -0500
 The writing that I do really inspires me to explore the world and what people are thinking. For example writing about journaling, digital minimalism (Thank you Cal Newport for your excellent book with the same name!), and many other topics that I find interesting. Including the realm of technology and how we interface it in our daily lives.
 
 
+- This work will become a portfolio for photography soon, because I have found enjoyment through a DSLR from 2009.
+
 
 [![Donate using
 Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/MajesticTwelve/donate)
